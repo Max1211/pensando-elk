@@ -1,4 +1,4 @@
-<img src="https://pensando.io/wp-content/themes/pensando/assets/images/logo.svg" alt="My cool logo" width="350"/>
+<img src="https://th.bing.com/th/id/OIP.CwPiU5tKuxQpL4ZMRSoVIQAAAA?pid=ImgDet&rs=1" alt="" width="350"/>
 
 
 ELK based analytics for Pensado Systems
@@ -19,7 +19,7 @@ This branch works with the following software.
 CXOS: 10.11.x <br/>
 PSM:  1.54.1-T-7
 
-If these do not match your current install, [check one of the other branches](https://gitlab.com/pensando/tbd/siem/elastic/elk-pensando/-/branches)
+If these do not match your current install, [check one of the other branches](https://github.com/amd/cx10000-elastic/branches)
 
 ---
 
